@@ -244,6 +244,25 @@ p {
   height: 12px;
   background: #90ce9d;
 }
+
+.skillset.technical .level-bar-inner {
+  height: 12px;
+  background: orange;
+}
+
+.skillset.soft .level-bar-inner{
+  height: 12px;
+  background:violet;
+}
+.skillset.languages .level-bar-inner{
+  height: 12px;
+  background:blue;
+}
+.skillset.environments .level-bar-inner{
+  height: 12px;
+  background:brown;
+}
+
 .footer {
   padding: 30px;
   padding-top: 60px;
